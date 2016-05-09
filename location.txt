@@ -1,4 +1,1 @@
 http://www.aerialview.tv/app/KodiWizard/versionfiles/prem380/update_1437492851.zip
-location 2
-location 3
-location 4
