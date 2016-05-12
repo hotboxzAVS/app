@@ -1,2 +1,3 @@
 Full Load 2.0
-Basic Build for testing Jarvis 16.1
+Basic Build for testing Jarvis 16.1 structure_.files/kodi
+structure_files/.kodi
